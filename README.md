@@ -12,6 +12,10 @@
 📈 **my stats**
 
 <!--START_SECTION:waka-->
+```text
+JavaScript   39 mins         ██████████████████████▓░░   90.57 % 
+Bash         3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+```
 <!--END_SECTION:waka-->
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=freegocrazy&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
