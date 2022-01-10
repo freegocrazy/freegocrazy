@@ -5,7 +5,7 @@
 **stuff**
   
 - 💻 currently working on: botlist.
-- 💬 languages: js, php, emojicode, brainfuck, folders, cow
+- 💬 languages: js, php, emojicode, brainfuck, folders, cow, python
 - 👨‍💻 javascript things: express.js, node.js
 - 📚 databases: mongodb
 
